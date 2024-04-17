@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Figma</title>
+</head>
+<body>
+<div class="parent">
+ 
+  
+<div class="both"> 
+  <div class="img1"><img src="./Group 1525.png"></div>
+ <div class="child1">
+
+ <h1>COMUN</h1> 
+ </div>
+    <div class="child2">
+      <p> Home </p>
+      <p> About </p>
+      <p> About </p>
+      <p> Auth page </p>
+      <p> Features </p>
+      <p> Pricing </p>
+      <p> Get Started </p>
+   </div>
+  </div>
+     
+            <div class="child3">
+            <p>Share text, voice, 
+              photos, videos and 
+              GIFs files for free</p>
+            <div class="img2"><img src="./Group 19.png"></div>
+           </div>
+           <div class="common">
+           <div class="child4">Feugiat primis a ligula undo auctor mauris auctor laoreet and pretium augue an egestas cubilia</div>
+
+                             <div class="parent2">
+                             <div class="child5">
+                                <h1>Learn More</h1>
+                              </div>
+                              <img src="./Learn More icon.png">
+                              <div class="child6"><h1>See OLMO in Action</h1></div></div>
+
+
+                              <div class="parent3">
+                                <div class="one">
+                                  <p>14 days free trial</p></div>
+                                  <div class="two">
+                                <p>No credit card</p></div>
+                              </div>
+                              </div>
+
+                              <div class="colour">
+                              <div class="common">
+                              <div class="parent4">
+                                <center><img src="./Vector.png"></center>
+                                <div class="part1"><h1>Quick Acess</h1></div>
+                                <div class="part2"><p>Feugiat primis ultrice a semper lacus cursus feugiat a primis ultrice a ligula risus auctor </p></div>
+                              </div>
+                              
+
+
+
+                              <div class="parent5">
+                                <center><img src="./Vector (1).png"></center>
+                                <div class="part3"><h1>Cross-Platform</h1></div>
+                                <div class="part4"><p>Feugiat primis ultrice a semper lacus cursus feugiat a primis ultrice a ligula risus auctor </p></div>
+                              </div>
+                              
+                              
+                              
+                              
+                              <div class="parent6">
+                               <center> <img src="./Vector (2).png"></center>
+                               <div class="part5"><h1>Easy Integration</h1></div>
+                               <div class="part6"><p>Feugiat primis ultrice a semper lacus cursus feugiat a primis ultrice a ligula risus auctor </p></div>
+                              </div>
+                              </div>
+
+
+
+                              <div class="parent7">
+                                <img src="./next part.png"><div class="part9"><h1>Share files, media, and locations</h1></div>
+                               <div class="part10"><p>Quaerat sodales sapien euismod blandit purus a purus ipsum primis in cubilia laoreet augue luctus magna dolor luctus and egestas sapien egestas vitae nemo volute
+                               </p></div>
+                               <div class="part11">
+                               <p>Quaerat sodales sapien euismod blandit at vitae ipsum primis undo and cubilia laoreet augue and luctus magna dolor luctus at egestas sapien vitae nemo egestas volute and turpis dolores aliquam quaerat sodales a sapien</p></div>
+                             </div>
+
+
+
+                             <div class="parent8">
+                              <div class="part12">
+                              <img src="./image.png"></div>
+                              </div>
+
+
+
+
+                              <div class="parent9">
+                                <div class="part13">
+                               <center>  <h1>Security, Simplicity, Easiness</h1></div></center> 
+                                <div class="part14">
+                            
+                                <p>Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis a libero tempus, blandit and cursus varius and magnis sapien</p></div>
+                              </div>
+
+
+
+                              <div class="parent10">
+                                <div class="part15"><img src="./final image.png" ></div>
+                              </div>
+
+
+
+                              <div class="parent11">
+                                <div class="part16">
+                                  <img src="./figam.png">
+                                </div>
+                              </div>
+
+
+
+
+                              <div class="part17">
+                                <img src="./hello.png">
+                              </div>
+
+
+
+                              <div class="parent12">
+                                <div class="part18">
+                                <center><h1>Share Moments. Share Life.</h1></center>
+                                </div>
+                                <div class="part19">
+                                <p>Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis a libero tempus, blandit and cursus varius and magnis sapien</p></div>
+                                </div>
+                                
+
+                                <div class="part19">
+                               <img src="./last.png">
+                                </div>
+
+
+                                <div class="parent13">
+                                  <div class="part20">
+                                     <center><h1>Stories From Our Customers</h1></center>
+                                    <div class="part21"><p>Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis a libero tempus, blandit and cursus varius and magnis sapien</p></div>
+                                    <div class="part22"><img src="./snipping.png"></div>
+                                  </div>
+                                </div>
+                                 
+
+
+
+                                <div class="part23">
+                                <img src="./img22.png">
+                                </div>
+
+
+                                <div class="parent14">
+                                  <center><h1>Discover powerful features to boost your productivity</h1></center>
+                                </div>
+
+
+                             
+
+
+                               <center><div class="parent15">
+                                  <img src="./img24.png">
+
+                                </div></center> 
+
+
+                                <div class="parent16">
+                                  <div class="part24">
+                                  <center><h1>Got Questions? Look Here</h1></div></center>
+                                  <div class="part25"><p>Aliquam a augue suscipit, luctus neque purus ipsum neque dolor primis a libero tempus, blandit and cursus varius and magnis sapien</p></div>
+                                  
+                                    </div>
+
+
+
+
+                                    <div class="parent17">
+                                      <center><div class="part25"><h1>Have more questions?</h1></div></center>
+                                    </div>
+
+
+                                    <center><div class="parent18">
+                                      
+                                      <h1>Search</h1>
+                              
+                                      
+                                    </div></center>
+
+
+                                    <center><div class="parent19">
+                                      <center>
+                                  <div class="part26"><img src="./image42.png"></center>
+
+                                      </div>
+                                    </div>
+                                  </center>
+
+
+
+                                  <div class="part27">
+                                    <img src="./image43.png">
+
+                                  </div>
+
+
+
+                                
+
+
+
+
+                          
+                            
+
+
+
+
+                               
+                              
+
+                              
+                 
+                    
+                             
+
+
+
+
+
+
+
+                              
+
+
+                              
+                              
+
+
+                              
+
+
+
+                              
+
+                              
+
+
+
+                              
+                            
+                            
+
+
+
+                            
+
+
+                          
+                          
+                            
+
+
+                            
+
+                                 
+                        
+       
+    </div>  
+</body>
+</html>
